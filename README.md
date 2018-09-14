@@ -1,1 +1,1 @@
-# minimal-festival
+# Minimal Festival Theme
