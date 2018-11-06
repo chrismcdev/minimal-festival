@@ -1,4 +1,4 @@
-# Minimal Festival Website Theme
+# Minimal Festival Website Design
 
 [![CSS Framework](https://img.shields.io/badge/CSS_Framework-Bootstrap-563d7c.svg)](https://getbootstrap.com/)
 [![ESLint Config](https://img.shields.io/badge/ESLint_Config-Airbnb-fd5c63.svg)](https://github.com/airbnb/javascript)
